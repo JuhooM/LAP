@@ -1,0 +1,9 @@
+Mooren laki
+
+Artikkelissa käsitellään transistoreita ja mikropiirejä ja Mooren lain sovellusta niihin. 
+Mooren laki käsittelevät transistoreita ja, kuinka niiden koon pienentäminen tekee niistä halvempia, jonka avulla arvioidaan,
+kunka paljon transistoreja on uusissa mikropiireissä.
+Enää pääkohteena ei ole pienentää transistoreja, vaan yritetään saada niitä tiheämmin mikropiiriin, joka lisää sen tehoa.
+Mooren laki on kuitenkin artikkelin mukaan vielä käyvä, kunnes nykyaikaissisa piireissä tulee fysiikka vastaan ja joudutaan keksimään uutta.
+Mikropiirien tekeminen on iso bisnes fabs yritys kasvanut ~1miljardista vuonna 2000, 
+~20miljardiin ~vuoteen 2022. Uusien mikropiirien kehittäminen kallista ja vaikeaa.
