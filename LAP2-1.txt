@@ -1,0 +1,12 @@
+1.a) 	Tarkistaa onko %x2C=COMMA vai SEMICOLON, jos comma sama kuin muokkaamaton määritelmä jos semicolon
+	korvataan joikainen COMMA, SEMICOLON
+	
+b)	I lisätään SEMICOLON ->csv ;
+	V kun luetaan tietueen otsikko, jos se sisältää Name*(COMMA Name) niin asetetaan COMMA = %x2C, muuten SEMICOLON = %x2C
+
+c) 	I lisätään SEMICOLON ->csv ;
+	Nyt COMMA = SEMICOLON = %x2C
+	Eli nyt on SEMICOLON ";", joka käyttäytyy kuten ","
+	Korvataan kaikki COMMA määritelmässä, COMMA or SEMICOLON
+
+d)	Moderneissa ohjelmointikielissä käytetään ; erottamaan komennot joten microsoft muuti csv syntaxia vastaavaksi
